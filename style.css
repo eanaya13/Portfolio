@@ -274,7 +274,7 @@ home-img img{
 
 .project h3 {
   font-size: 2.2rem;
-  color: aqua;
+  color: rgb(225, 0, 157);
 }
 
 .project p {
@@ -288,5 +288,5 @@ home-img img{
 }
 
 .project a:hover {
-  color: aqua;
+  color: rgb(255, 5, 143);
 }
